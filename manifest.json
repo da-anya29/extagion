@@ -1,0 +1,25 @@
+{
+
+  "manifest_version": 2,
+
+  "name": "GTmetrix Page Speed Analyzer",
+
+  "description": "Use GTmetrix to analyze a website page loading speed",
+
+  "version": "1.0",
+
+  "browser_action": {
+
+   "default_icon": "icon.png",
+
+   "default_popup": "popup.html"
+
+  },
+
+  "permissions": [
+
+   "activeTab"
+
+   ]
+
+}
